@@ -1,0 +1,7 @@
+{
+  "name": "SoundLink - Inteligentny Rejestrator",
+  "description": "Rejestrator dźwięku aktywowany głosem z funkcją zdalnego odsłuchu.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
